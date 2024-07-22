@@ -1,0 +1,109 @@
+{
+   "checksum": "6b6eaed79f576aaa46e7057616510d6d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13365345813488575",
+            "date_last_used": "0",
+            "guid": "c17a38b1-d19f-49da-bb90-bc2ac9097b68",
+            "id": "10",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.booking.com/index.html?aid=1980379&label=NW21C2EF"
+         }, {
+            "date_added": "13365345813488462",
+            "date_last_used": "0",
+            "guid": "8caf4591-0363-4dc9-94da-a407fddafdd0",
+            "id": "9",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13365345813488310",
+            "date_last_used": "0",
+            "guid": "8f7f9d3c-a4b9-445e-82b5-760add6178b1",
+            "id": "8",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13365345813487482",
+            "date_last_used": "0",
+            "guid": "c9b0f446-c33c-4540-944e-269a0f87474a",
+            "id": "7",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13353365940485869",
+            "date_last_used": "0",
+            "guid": "bc181411-78d5-4e2f-863b-c54d2000af83",
+            "id": "11",
+            "name": "LastPass",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "https://www.lastpass.com/hpwelcome"
+         } ],
+         "date_added": "13365345813149696",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13353365940484723",
+               "date_last_used": "0",
+               "guid": "d9f022c4-651a-4743-98e8-a8a0335481fb",
+               "id": "13",
+               "name": "LastPass",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "https://www.lastpass.com/hpwelcome"
+            } ],
+            "date_added": "13365345818228477",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "4d3007ce-22ff-45d2-b2e7-08d3d30b512c",
+            "id": "12",
+            "name": "HP",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13365345813149700",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13365345813149702",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
